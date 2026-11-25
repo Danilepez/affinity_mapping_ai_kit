@@ -1,0 +1,1042 @@
+[
+  {
+    "ref": "E01-F01",
+    "entrevista": "E01",
+    "cita": "Un Excel.",
+    "codigo": "usa hoja de cálculo",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E01-F02",
+    "entrevista": "E01",
+    "cita": "más o menos se estima en lo que hemos gastado y lo que hemos podido tener de ingreso.",
+    "codigo": "estima resultado de caja",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E01-F03",
+    "entrevista": "E01",
+    "cita": "Entre 30 a 45 minutos más o menos.",
+    "codigo": "dedica tiempo al cierre",
+    "tipo": "contexto",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E01-F04",
+    "entrevista": "E01",
+    "cita": "damos crédito a empresas, ¿no? Entonces ellos llevan y después nos cancelan en 30 días más o menos.",
+    "codigo": "otorga crédito empresarial",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E01-F05",
+    "entrevista": "E01",
+    "cita": "Ah, sí. Ha habido, ha habido.",
+    "codigo": "reporta impago previo",
+    "tipo": "dolor",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E01-F06",
+    "entrevista": "E01",
+    "cita": "ya se ha descontinuado, ya no corre con el Windows 10",
+    "codigo": "pierde herramienta anterior",
+    "tipo": "dolor",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E01-F07",
+    "entrevista": "E01",
+    "cita": "no sabe usar ni un celular, entonces ahí eso nos detiene",
+    "codigo": "frena adopción familiar",
+    "tipo": "dolor",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E02-F01",
+    "entrevista": "E02",
+    "cita": "cada operador hace su cierre de caja.",
+    "codigo": "controla por operador",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E02-F02",
+    "entrevista": "E02",
+    "cita": "Cada producto que sale de la tienda sale con códigos de barra",
+    "codigo": "escanea ventas",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E02-F03",
+    "entrevista": "E02",
+    "cita": "en un Excel que lo hemos diseñado nosotros como tienda.",
+    "codigo": "complementa con Excel",
+    "tipo": "workaround",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E02-F04",
+    "entrevista": "E02",
+    "cita": "no trabajamos con fiados de ningún tipo",
+    "codigo": "rechaza fiado",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E02-F05",
+    "entrevista": "E02",
+    "cita": "he contratado una empresa para que me diseñe un sistema que tenga todo lo que yo requiero.",
+    "codigo": "contrata desarrollo propio",
+    "tipo": "comportamiento",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E02-F06",
+    "entrevista": "E02",
+    "cita": "me acomodo a lo que TuGerente tiene",
+    "codigo": "adapta operación al software",
+    "tipo": "dolor",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E02-F07",
+    "entrevista": "E02",
+    "cita": "como que no es su prioridad",
+    "codigo": "percibe soporte insuficiente",
+    "tipo": "frustración",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E03-F01",
+    "entrevista": "E03",
+    "cita": "manejamos el cuaderno de anotaciones. Y el flujo se registra en las noches",
+    "codigo": "registra al cerrar",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E03-F02",
+    "entrevista": "E03",
+    "cita": "No tenemos sistema, no estamos tan grandes",
+    "codigo": "ajusta control al tamaño",
+    "tipo": "creencia",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E03-F03",
+    "entrevista": "E03",
+    "cita": "tiempo para registrar, todo eso, que te genera más gasto.",
+    "codigo": "anticipa costo de registro",
+    "tipo": "creencia",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E03-F04",
+    "entrevista": "E03",
+    "cita": "no vienen y no te pagan, ¿no? Y pierdes el cliente y pierdes el producto.",
+    "codigo": "reporta impago previo",
+    "tipo": "dolor",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E03-F05",
+    "entrevista": "E03",
+    "cita": "No, no trabajamos con el fiado porque es pérdida.",
+    "codigo": "rechaza fiado",
+    "tipo": "comportamiento",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E03-F06",
+    "entrevista": "E03",
+    "cita": "tenemos los precios, toda la tienda organizada",
+    "codigo": "organiza para atender",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E03-F07",
+    "entrevista": "E03",
+    "cita": "atender rápido a la gente para no perjudicarla",
+    "codigo": "prioriza rapidez de atención",
+    "tipo": "motivación",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E04-F01",
+    "entrevista": "E04",
+    "cita": "Hago mis cuentas diario, diario.",
+    "codigo": "registra al cerrar",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E04-F02",
+    "entrevista": "E04",
+    "cita": "las cosas han bajado, digámosle, la venta.",
+    "codigo": "reporta caída de ventas",
+    "tipo": "dolor",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E04-F03",
+    "entrevista": "E04",
+    "cita": "como es la tienda pequeña, entonces se puede hacer.",
+    "codigo": "ajusta control al tamaño",
+    "tipo": "creencia",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E04-F04",
+    "entrevista": "E04",
+    "cita": "yo soy la dueña",
+    "codigo": "atiende como propietaria",
+    "tipo": "contexto",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E04-F05",
+    "entrevista": "E04",
+    "cita": "se presta son botellas, pero se deja cambio",
+    "codigo": "exige garantía",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E04-F06",
+    "entrevista": "E04",
+    "cita": "el inventario yo lo hago anual.",
+    "codigo": "cuenta inventario anualmente",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E04-F07",
+    "entrevista": "E04",
+    "cita": "es muy problemático sacar por meses, por fechas las facturas.",
+    "codigo": "dificulta ordenar comprobantes",
+    "tipo": "dolor",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E04-F08",
+    "entrevista": "E04",
+    "cita": "siempre les he presentado lo que tengo: apuntes por día anotados",
+    "codigo": "presenta registro manual",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E05-F01",
+    "entrevista": "E05",
+    "cita": "en cuaderno, en cuentas de lo que entra y sale.",
+    "codigo": "registra en cuaderno",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E05-F02",
+    "entrevista": "E05",
+    "cita": "primero el cuaderno, luego se pasa a la computadora y listo, y todo tranquilo ya.",
+    "codigo": "duplica registro sin molestia",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E05-F03",
+    "entrevista": "E05",
+    "cita": "Ah, aquí fiados no. No existe.",
+    "codigo": "rechaza fiado",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E05-F04",
+    "entrevista": "E05",
+    "cita": "en negocios mucho más grandes ya es un poco más complicado.",
+    "codigo": "ajusta control al tamaño",
+    "tipo": "creencia",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E05-F05",
+    "entrevista": "E05",
+    "cita": "las aplicaciones o todo lo que hay es como para negocios más grandes",
+    "codigo": "percibe software sobredimensionado",
+    "tipo": "creencia",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E06-F01",
+    "entrevista": "E06",
+    "cita": "el cierre de caja lo hacemos por día.",
+    "codigo": "registra al cerrar",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E06-F02",
+    "entrevista": "E06",
+    "cita": "unos 8.000, 10.000 bolivianos, hemos hecho instalar.",
+    "codigo": "paga instalación de sistema",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E06-F03",
+    "entrevista": "E06",
+    "cita": "No, ya nada.",
+    "codigo": "evita mensualidad posterior",
+    "tipo": "contexto",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E06-F04",
+    "entrevista": "E06",
+    "cita": "No, fiados no.",
+    "codigo": "rechaza fiado",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E06-F05",
+    "entrevista": "E06",
+    "cita": "trabajamos entre tres a cuatro personas",
+    "codigo": "comparte atención",
+    "tipo": "contexto",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E06-F06",
+    "entrevista": "E06",
+    "cita": "agarramos el sistema y vemos qué se ha vendido y ya para considerar también cuánto se gana.",
+    "codigo": "consulta ventas del personal",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E06-F07",
+    "entrevista": "E06",
+    "cita": "se lentea, no deja meter más productos.",
+    "codigo": "sufre límite de carga",
+    "tipo": "dolor",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E07-F01",
+    "entrevista": "E07",
+    "cita": "en cuadernos más que todo.",
+    "codigo": "registra en cuaderno",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E07-F02",
+    "entrevista": "E07",
+    "cita": "Económicos del país, eso.",
+    "codigo": "prioriza contexto económico",
+    "tipo": "dolor",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E07-F03",
+    "entrevista": "E07",
+    "cita": "Cada semana o cada tres días",
+    "codigo": "repone periódicamente",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E07-F04",
+    "entrevista": "E07",
+    "cita": "Excel algunas cosas, otros son reabastecimiento, otros es cuadernos y facturas.",
+    "codigo": "combina registros",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E07-F05",
+    "entrevista": "E07",
+    "cita": "precios no",
+    "codigo": "descarta precio como barrera",
+    "tipo": "creencia",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E07-F06",
+    "entrevista": "E07",
+    "cita": "tener un conteo de cuántos productos, más que todo eso.",
+    "codigo": "señala conteo ambiguo",
+    "tipo": "contexto",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E07-F07",
+    "entrevista": "E07",
+    "cita": "personas que, como caseros, que no vuelven",
+    "codigo": "reporta pérdida de clientes",
+    "tipo": "dolor",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E07-F08",
+    "entrevista": "E07",
+    "cita": "productos que no tenemos.",
+    "codigo": "señala faltantes",
+    "tipo": "contexto",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E08-F01",
+    "entrevista": "E08",
+    "cita": "no, ya hace años que lo hacemos. Se anotan las salidas y las entradas.",
+    "codigo": "acepta registro actual",
+    "tipo": "creencia",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E08-F02",
+    "entrevista": "E08",
+    "cita": "Pero no a tal detalle",
+    "codigo": "limita detalle de registro",
+    "tipo": "contexto",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E08-F03",
+    "entrevista": "E08",
+    "cita": "alguna excepción por horas",
+    "codigo": "restringe fiado",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E08-F04",
+    "entrevista": "E08",
+    "cita": "algún rato presto pero con una buena garantía.",
+    "codigo": "exige garantía",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E08-F05",
+    "entrevista": "E08",
+    "cita": "Por la señal también a veces que baja y todo eso es difícil.",
+    "codigo": "sufre señal irregular",
+    "tipo": "dolor",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E08-F06",
+    "entrevista": "E08",
+    "cita": "Estamos queriendo meternos a eso, pero está costando.",
+    "codigo": "dificulta adopción digital",
+    "tipo": "dolor",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E08-F07",
+    "entrevista": "E08",
+    "cita": "Mi esposa me ayuda.",
+    "codigo": "comparte atención",
+    "tipo": "contexto",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E08-F08",
+    "entrevista": "E08",
+    "cita": "te muestran una cantidad y no es la cantidad",
+    "codigo": "desconfía comprobantes QR",
+    "tipo": "dolor",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E08-F09",
+    "entrevista": "E08",
+    "cita": "esperamos que llegue la cantidad digamos, recién les damos el producto",
+    "codigo": "espera confirmación QR",
+    "tipo": "comportamiento",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E09-F01",
+    "entrevista": "E09",
+    "cita": "ahora ya es innecesario porque los pedidos que hacemos nosotros son muy mínimos",
+    "codigo": "ajusta control al tamaño",
+    "tipo": "creencia",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E09-F02",
+    "entrevista": "E09",
+    "cita": "se puede controlar todo mentalmente.",
+    "codigo": "controla de memoria",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E09-F03",
+    "entrevista": "E09",
+    "cita": "yo empiezo a atender a las 9 y me quedo hasta medianoche.",
+    "codigo": "extiende horario de atención",
+    "tipo": "comportamiento",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E09-F04",
+    "entrevista": "E09",
+    "cita": "hemos tenido que guardar nuestras bebidas para Carnavales.",
+    "codigo": "inmoviliza stock estacional",
+    "tipo": "dolor",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E09-F05",
+    "entrevista": "E09",
+    "cita": "hemos empezado a graduar la cantidad de bebidas que teníamos.",
+    "codigo": "ajusta compras por experiencia",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E09-F06",
+    "entrevista": "E09",
+    "cita": "ahora pago 220.",
+    "codigo": "reduce gasto eléctrico",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E09-F07",
+    "entrevista": "E09",
+    "cita": "estamos horneando nosotros.",
+    "codigo": "diversifica producción",
+    "tipo": "workaround",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E09-F08",
+    "entrevista": "E09",
+    "cita": "Yo apenas logro pagar mi alquiler",
+    "codigo": "reporta presión económica",
+    "tipo": "dolor",
+    "intensidad": "alta"
+  },
+  {
+    "ref": "E10-F01",
+    "entrevista": "E10",
+    "cita": "cuento todo lo que me queda y lo voy anotando en este cuaderno.",
+    "codigo": "registra al cerrar",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E10-F02",
+    "entrevista": "E10",
+    "cita": "entran tres, cuatro personas, entonces hay una venta que se salta.",
+    "codigo": "omite registro con afluencia",
+    "tipo": "dolor",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E10-F03",
+    "entrevista": "E10",
+    "cita": "dos, tres personas que son de mucha confianza",
+    "codigo": "restringe fiado",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E10-F04",
+    "entrevista": "E10",
+    "cita": "me dicen \"he llevado esto\" y a mí se me pasa.",
+    "codigo": "recupera registro con cliente",
+    "tipo": "workaround",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E10-F05",
+    "entrevista": "E10",
+    "cita": "es una aplicación de teléfono. Entonces todavía sigue siendo incómodo y no es tan rápido.",
+    "codigo": "sufre lentitud móvil",
+    "tipo": "dolor",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E10-F06",
+    "entrevista": "E10",
+    "cita": "mi plan a futuro es habilitar una computadora",
+    "codigo": "prefiere computadora futura",
+    "tipo": "motivación",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E10-F07",
+    "entrevista": "E10",
+    "cita": "con tal de no empeorar la calidad del servicio, no lo uso el teléfono.",
+    "codigo": "abandona registro móvil",
+    "tipo": "comportamiento",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E10-F08",
+    "entrevista": "E10",
+    "cita": "era algo de 50 pesos mensuales",
+    "codigo": "reporta precio de alternativa",
+    "tipo": "contexto",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E10-F09",
+    "entrevista": "E10",
+    "cita": "fechas de caducidad, igual me avisaba. El inventario igual se iba descontando constantemente.",
+    "codigo": "reconoce funciones útiles",
+    "tipo": "creencia",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E10-F10",
+    "entrevista": "E10",
+    "cita": "algún código de barras brilla, entonces tarda en enfocarlo.",
+    "codigo": "sufre enfoque de cámara",
+    "tipo": "dolor",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E10-F11",
+    "entrevista": "E10",
+    "cita": "Fechas de caducidad es lo que más me lleva.",
+    "codigo": "prioriza control de fechas",
+    "tipo": "dolor",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E10-F12",
+    "entrevista": "E10",
+    "cita": "en esos 10 días a veces se quedan esos dos.",
+    "codigo": "reporta rotación variable",
+    "tipo": "contexto",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E11-F01",
+    "entrevista": "E11",
+    "cita": "Yo no llevo ninguna contabilidad de nada",
+    "codigo": "opera sin registro",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E11-F02",
+    "entrevista": "E11",
+    "cita": "veo cuando en las estanterías faltan cosas y las vuelvo a pedir.",
+    "codigo": "repone a ojo",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E11-F03",
+    "entrevista": "E11",
+    "cita": "es dinero que está en las repisas durmiendo",
+    "codigo": "evita capital inmovilizado",
+    "tipo": "motivación",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E11-F04",
+    "entrevista": "E11",
+    "cita": "estoy pagando entre 400 y 500 al mes de luz.",
+    "codigo": "reporta gasto eléctrico",
+    "tipo": "dolor",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E11-F05",
+    "entrevista": "E11",
+    "cita": "He tenido que tirarme como cuatro días con un reloj",
+    "codigo": "ajusta consumo eléctrico",
+    "tipo": "workaround",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E11-F06",
+    "entrevista": "E11",
+    "cita": "Al principio registraba, y la verdad que era mejor, pero ahora en este momento no estoy registrando ya.",
+    "codigo": "abandona registro previo",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E11-F07",
+    "entrevista": "E11",
+    "cita": "una estantería no está produciendo, pues mira, reemplazo con alguna cosa que sí se venda.",
+    "codigo": "busca mejorar surtido",
+    "tipo": "motivación",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E11-F08",
+    "entrevista": "E11",
+    "cita": "son como a lo mejor un 35%, un 40% la ganancia.",
+    "codigo": "estima margen de comida",
+    "tipo": "contexto",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E11-F09",
+    "entrevista": "E11",
+    "cita": "hay muchas cosas que hay que llevar con la cabeza, no se puede.",
+    "codigo": "sobrecarga control mental",
+    "tipo": "dolor",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E11-F10",
+    "entrevista": "E11",
+    "cita": "checo los precios, a veces suben, entonces hay que aumentarle un poco más",
+    "codigo": "actualiza precios de venta",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E11-F11",
+    "entrevista": "E11",
+    "cita": "al final me ha quedado debiendo un montón de plata.",
+    "codigo": "reporta impago previo",
+    "tipo": "dolor",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E11-F12",
+    "entrevista": "E11",
+    "cita": "fiar prácticamente nada.",
+    "codigo": "restringe fiado",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E11-F13",
+    "entrevista": "E11",
+    "cita": "incluso me han amenazado y nunca he cerrado",
+    "codigo": "resiste interrupciones externas",
+    "tipo": "dolor",
+    "intensidad": "alta"
+  },
+  {
+    "ref": "E12-F01",
+    "entrevista": "E12",
+    "cita": "No, no, no hay venta.",
+    "codigo": "reporta caída de ventas",
+    "tipo": "dolor",
+    "intensidad": "alta"
+  },
+  {
+    "ref": "E12-F02",
+    "entrevista": "E12",
+    "cita": "estoy a veces solita, no está mi hija, entonces pasan ladrones.",
+    "codigo": "percibe riesgo de robo",
+    "tipo": "dolor",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E12-F03",
+    "entrevista": "E12",
+    "cita": "un poco más para distraernos.",
+    "codigo": "busca actividad cotidiana",
+    "tipo": "motivación",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E12-F04",
+    "entrevista": "E12",
+    "cita": "No, porque no hay mucha platita. Muy poquito vendo, muy poquito.",
+    "codigo": "prescinde registro por volumen",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E12-F05",
+    "entrevista": "E12",
+    "cita": "Ellos me ayudan a pagar luz, agüita.",
+    "codigo": "recibe apoyo familiar",
+    "tipo": "contexto",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E13-F01",
+    "entrevista": "E13",
+    "cita": "cuánto se ha pagado, cuánto se ha vendido, si se ha llegado al objetivo o no.",
+    "codigo": "controla metas diarias",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E13-F02",
+    "entrevista": "E13",
+    "cita": "se saca un porcentaje del 8%. Esa es la ganancia.",
+    "codigo": "estima margen fijo",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E13-F03",
+    "entrevista": "E13",
+    "cita": "se abre 07:00 y se cierra 19:00.",
+    "codigo": "mantiene horario extenso",
+    "tipo": "contexto",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E13-F04",
+    "entrevista": "E13",
+    "cita": "Es mucho ítem, mucho guara-guara es.",
+    "codigo": "percibe software sobredimensionado",
+    "tipo": "creencia",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E13-F05",
+    "entrevista": "E13",
+    "cita": "para una persona sola no da.",
+    "codigo": "anticipa costo de registro",
+    "tipo": "creencia",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E13-F06",
+    "entrevista": "E13",
+    "cita": "si contratara a otra persona, ah, tal vez ya optaría por ese sistema.",
+    "codigo": "condiciona adopción a personal",
+    "tipo": "creencia",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E13-F07",
+    "entrevista": "E13",
+    "cita": "verifico, pago y lo lleno en el cuaderno",
+    "codigo": "registra en cuaderno",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E13-F08",
+    "entrevista": "E13",
+    "cita": "llego a los objetivos.",
+    "codigo": "acepta registro actual",
+    "tipo": "creencia",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E14-F01",
+    "entrevista": "E14",
+    "cita": "se lleva un registro manual de las ventas, del inventario de acá.",
+    "codigo": "registra manualmente inventario",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E14-F02",
+    "entrevista": "E14",
+    "cita": "he intentado probar distintos software",
+    "codigo": "prueba alternativas",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E14-F03",
+    "entrevista": "E14",
+    "cita": "son muy genéricos.",
+    "codigo": "percibe software genérico",
+    "tipo": "frustración",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E14-F04",
+    "entrevista": "E14",
+    "cita": "he tratado digamos de contactarme con un desarrollador",
+    "codigo": "busca desarrollo propio",
+    "tipo": "comportamiento",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E14-F05",
+    "entrevista": "E14",
+    "cita": "ver las mermas, la caducidad, renovar el inventario",
+    "codigo": "busca control de perecederos",
+    "tipo": "necesidad",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E14-F06",
+    "entrevista": "E14",
+    "cita": "únicamente voy digamos yo atendiéndola.",
+    "codigo": "atiende sin apoyo",
+    "tipo": "contexto",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E14-F07",
+    "entrevista": "E14",
+    "cita": "No es incómodo, pero tampoco es digamos lo que necesito",
+    "codigo": "acepta hábito insuficiente",
+    "tipo": "creencia",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E14-F08",
+    "entrevista": "E14",
+    "cita": "si hay conflictos o bloqueos, eso me limita digamos de aquí el inventario.",
+    "codigo": "sufre interrupción de abastecimiento",
+    "tipo": "dolor",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E14-F09",
+    "entrevista": "E14",
+    "cita": "Para evitar pérdidas vamos nomás yendo según lo que va presentándose coyunturalmente.",
+    "codigo": "evita comprometer oferta",
+    "tipo": "comportamiento",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E15-F01",
+    "entrevista": "E15",
+    "cita": "Tenemos nuestro propio sistema instalado en la computadora.",
+    "codigo": "usa sistema de escritorio",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E15-F02",
+    "entrevista": "E15",
+    "cita": "todo lo que se vende se pasa por el lector.",
+    "codigo": "escanea ventas",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E15-F03",
+    "entrevista": "E15",
+    "cita": "Nos sale 700 bolivianos al mes.",
+    "codigo": "paga mensualidad existente",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E15-F04",
+    "entrevista": "E15",
+    "cita": "Nos dan soporte y nos actualizan el sistema si algo falla.",
+    "codigo": "recibe soporte",
+    "tipo": "contexto",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E15-F05",
+    "entrevista": "E15",
+    "cita": "Estamos muy a gusto con el sistema.",
+    "codigo": "acepta registro actual",
+    "tipo": "creencia",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E15-F06",
+    "entrevista": "E15",
+    "cita": "No, aquí no damos fiado. A nadie.",
+    "codigo": "rechaza fiado",
+    "tipo": "comportamiento",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E15-F07",
+    "entrevista": "E15",
+    "cita": "no me llega la confirmación rápido.",
+    "codigo": "espera confirmación QR",
+    "tipo": "dolor",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E15-F08",
+    "entrevista": "E15",
+    "cita": "la fila se me tranca un poco por esperar que pase el pago.",
+    "codigo": "retiene fila por pago",
+    "tipo": "dolor",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E16-F01",
+    "entrevista": "E16",
+    "cita": "La verdad no sé exactamente cuál es el que más se vende.",
+    "codigo": "desconoce mayor rotación",
+    "tipo": "contexto",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E16-F02",
+    "entrevista": "E16",
+    "cita": "la soda, el pan y la leche.",
+    "codigo": "identifica productos esenciales",
+    "tipo": "contexto",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E16-F03",
+    "entrevista": "E16",
+    "cita": "hay varios productos que se vencen bastante rápido",
+    "codigo": "reporta vencimientos",
+    "tipo": "dolor",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E16-F04",
+    "entrevista": "E16",
+    "cita": "no llevamos ningún control de las fechas.",
+    "codigo": "omite control de fechas",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E16-F05",
+    "entrevista": "E16",
+    "cita": "Anotamos todo en un cuaderno.",
+    "codigo": "registra en cuaderno",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E16-F06",
+    "entrevista": "E16",
+    "cita": "La verdad no lo siento como un problema, así nomás funciona.",
+    "codigo": "acepta registro actual",
+    "tipo": "creencia",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E16-F07",
+    "entrevista": "E16",
+    "cita": "no siempre me acuerdo de cuánto cuesta cada cosa.",
+    "codigo": "dificulta recordar precios",
+    "tipo": "dolor",
+    "intensidad": "media"
+  },
+  {
+    "ref": "E16-F08",
+    "entrevista": "E16",
+    "cita": "solo a personas muy conocidas del barrio",
+    "codigo": "restringe fiado",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  },
+  {
+    "ref": "E16-F09",
+    "entrevista": "E16",
+    "cita": "solo yo lo hago, porque mis papás no saben usarlo muy bien.",
+    "codigo": "concentra cobro QR",
+    "tipo": "comportamiento",
+    "intensidad": "baja"
+  }
+]

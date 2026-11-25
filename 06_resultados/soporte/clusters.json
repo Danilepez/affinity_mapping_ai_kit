@@ -1,0 +1,181 @@
+[
+  {
+    "id": "C1",
+    "nombre": "Registrar sin frenar la atención",
+    "refs": [
+      "E01-F03",
+      "E03-F03",
+      "E03-F07",
+      "E10-F02",
+      "E10-F07",
+      "E10-F10",
+      "E13-F05"
+    ],
+    "puntajes": [
+      2,
+      2,
+      3,
+      3
+    ]
+  },
+  {
+    "id": "C2",
+    "nombre": "Actuar sobre rotación y fechas",
+    "refs": [
+      "E04-F07",
+      "E07-F08",
+      "E09-F04",
+      "E09-F05",
+      "E10-F11",
+      "E10-F12",
+      "E11-F02",
+      "E11-F03",
+      "E11-F07",
+      "E11-F09",
+      "E14-F05",
+      "E16-F03",
+      "E16-F04"
+    ],
+    "puntajes": [
+      2,
+      2,
+      3,
+      3
+    ]
+  },
+  {
+    "id": "C3",
+    "nombre": "Ajustar la herramienta al negocio",
+    "refs": [
+      "E01-F06",
+      "E02-F05",
+      "E02-F06",
+      "E02-F07",
+      "E05-F05",
+      "E06-F07",
+      "E07-F05",
+      "E07-F06",
+      "E10-F09",
+      "E14-F02",
+      "E14-F03",
+      "E14-F04",
+      "E15-F04",
+      "E15-F05"
+    ],
+    "puntajes": [
+      2,
+      2,
+      3,
+      3
+    ]
+  },
+  {
+    "id": "C4",
+    "nombre": "Habilitar a todos los operadores",
+    "refs": [
+      "E01-F07",
+      "E02-F01",
+      "E06-F05",
+      "E06-F06",
+      "E08-F06",
+      "E08-F07",
+      "E13-F06",
+      "E16-F09"
+    ],
+    "puntajes": [
+      2,
+      2,
+      3,
+      3
+    ]
+  },
+  {
+    "id": "C5",
+    "nombre": "Demostrar mejora frente a hábitos suficientes",
+    "refs": [
+      "E03-F02",
+      "E04-F03",
+      "E05-F02",
+      "E05-F04",
+      "E08-F01",
+      "E09-F01",
+      "E12-F04",
+      "E13-F01",
+      "E13-F08",
+      "E15-F05",
+      "E16-F06"
+    ],
+    "puntajes": [
+      3,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "C6",
+    "nombre": "Verificar cobros QR sin detener la venta",
+    "refs": [
+      "E08-F08",
+      "E08-F09",
+      "E15-F07",
+      "E15-F08",
+      "E16-F09"
+    ],
+    "puntajes": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "id": "C7",
+    "nombre": "Delimitar el fiado antes de digitalizarlo",
+    "refs": [
+      "E01-F04",
+      "E01-F05",
+      "E02-F04",
+      "E03-F04",
+      "E03-F05",
+      "E04-F05",
+      "E05-F03",
+      "E06-F04",
+      "E08-F03",
+      "E08-F04",
+      "E10-F03",
+      "E10-F04",
+      "E11-F11",
+      "E11-F12",
+      "E15-F06",
+      "E16-F08"
+    ],
+    "puntajes": [
+      3,
+      2,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "C8",
+    "nombre": "Reconocer restricciones económicas externas",
+    "refs": [
+      "E04-F02",
+      "E07-F02",
+      "E09-F08",
+      "E11-F04",
+      "E11-F13",
+      "E12-F01",
+      "E12-F05",
+      "E14-F08",
+      "E14-F09"
+    ],
+    "puntajes": [
+      2,
+      3,
+      3,
+      1
+    ]
+  }
+]
